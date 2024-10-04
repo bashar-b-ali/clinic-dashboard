@@ -1,0 +1,2 @@
+/*! For license information please see clinic-schedule-staff.js.LICENSE.txt */
+"use strict";document.addEventListener("DOMContentLoaded",(function(){new Swiper(".swiperautononav",{slidesPerView:"auto",spaceBetween:0,autoplay:!1,mousewheel:!0})}));

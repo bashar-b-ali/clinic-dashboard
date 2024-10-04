@@ -1,0 +1,2 @@
+/*! For license information please see clinic-schedule-cards.js.LICENSE.txt */
+"use strict";document.addEventListener("DOMContentLoaded",(function(){dragula([document.querySelector("#upcomingschedules"),document.querySelector("#ongoingschedules"),document.querySelector("#completedchedules")])}));

@@ -1,0 +1,2 @@
+/*! For license information please see clinic-auth.js.LICENSE.txt */
+"use strict";document.addEventListener("DOMContentLoaded",(function(){setActivelink(),fixedHeaderSpace(),featherjs(),coverimg(),dontclosedd(),checkstrength(),bstooltip(),PageLoaderHide()}));
